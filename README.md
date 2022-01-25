@@ -8,5 +8,7 @@ Sesión de github
 
 ### Insertaremos una imagen
 
-¡[Hack](img/Flor.jpg)
+¡[Hack](img/Flor.png)
+
+
 
