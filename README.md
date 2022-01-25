@@ -8,4 +8,3 @@ Sesión de github
 
 ### Insertaremos una imagen
 
-¡[Hack(img/Captura de pantalla 2022-01-24.png)]
